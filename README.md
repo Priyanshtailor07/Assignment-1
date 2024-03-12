@@ -1,3 +1,3 @@
 # Assignment-1
 First c assignment
-Author-Priyanshu Luharia
+Author-Priyanshu Luharia ( C.S.E)
